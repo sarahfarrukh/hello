@@ -3,6 +3,8 @@ using namespace std;
 
 int main()
 {
-cout<<"Hello World"<<endl;
+string first="Hello";
+string last="World";
+cout<<first<<" "<<last<<endl;
 return 0;
 }
